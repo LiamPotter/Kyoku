@@ -1,0 +1,14 @@
+C:\Users\Liam\Desktop\TBD Music Application\TBD Music Application\bin\Release\TBD Music Application.exe.config
+C:\Users\Liam\Desktop\TBD Music Application\TBD Music Application\bin\Release\TBD Music Application.exe
+C:\Users\Liam\Desktop\TBD Music Application\TBD Music Application\bin\Release\TBD Music Application.pdb
+C:\Users\Liam\Desktop\TBD Music Application\TBD Music Application\obj\Release\Greetings.g.cs
+C:\Users\Liam\Desktop\TBD Music Application\TBD Music Application\obj\Release\App.g.cs
+C:\Users\Liam\Desktop\TBD Music Application\TBD Music Application\obj\Release\TBD Music Application_MarkupCompile.cache
+C:\Users\Liam\Desktop\TBD Music Application\TBD Music Application\obj\Release\TBD Music Application_MarkupCompile.lref
+C:\Users\Liam\Desktop\TBD Music Application\TBD Music Application\obj\Release\Greetings.baml
+C:\Users\Liam\Desktop\TBD Music Application\TBD Music Application\obj\Release\TBD Music Application.g.resources
+C:\Users\Liam\Desktop\TBD Music Application\TBD Music Application\obj\Release\TBD_Music_Application.Properties.Resources.resources
+C:\Users\Liam\Desktop\TBD Music Application\TBD Music Application\obj\Release\TBD Music Application.csproj.GenerateResource.cache
+C:\Users\Liam\Desktop\TBD Music Application\TBD Music Application\obj\Release\TBD Music Application.csproj.CoreCompileInputs.cache
+C:\Users\Liam\Desktop\TBD Music Application\TBD Music Application\obj\Release\TBD Music Application.exe
+C:\Users\Liam\Desktop\TBD Music Application\TBD Music Application\obj\Release\TBD Music Application.pdb
